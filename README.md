@@ -6,10 +6,9 @@ This project aims to create a recommendation system for Netflix shows and movies
 To help users discover new shows and movies that are similar to ones they already enjoy.
 
 **Methods Used**  
-The project uses the following techniques:
-o Data Cleaning: To preprocess and handle missing or inconsistent data.
-o Similarity Calculation: Uses cosine similarity to find and rank shows or movies similar to a given title.
-Recommendation Function: Recommends top 10 similar movies based on user input.
+The project uses the following techniques:  
+o Data Cleaning  
+o Similarity Calculation: To find and rank shows or movies similar to a given title.  
 
 **Technologies Utilized**  
 o Python  
